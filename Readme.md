@@ -1,3 +1,6 @@
+## Adapted for latest Angular6+ and latest @angular/cli. 
+* removed rely on node global and process
+
 ## This project is no longer being maintained. It should be treated as sample code on one technique to calculate future instances of complex schedules. If you are looking to fire a task every 1 minute, use a cron scheduler instead.
 
 # [Later](http://bunkat.github.io/later/) [![Build Status](https://travis-ci.org/bunkat/later.svg)](https://travis-ci.org/bunkat/later)

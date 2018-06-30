@@ -1,17 +1,20 @@
 {
-  "name": "later",
+  "name": "ngx-later",
   "version": "1.2.0",
-  "description": "Determine later (or previous) occurrences of recurring schedules",
+  "description": "Adapted for latest Angular6+. Determine later (or previous) occurrences of recurring schedules",
   "keywords": [
+    "angular",
     "schedule",
     "occurrences",
     "recur",
     "cron"
   ],
-  "author": "BunKat <bill@levelstory.com>",
+  "author": {
+    "name": "Dmitry V. Mukhin"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bunkat/later.git"
+    "url": "git://github.com/Dimanoid/later.git"
   },
   "main": "index.js",
   "browserify": "index-browserify.js",
